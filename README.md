@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/DoctorNerds">
-  <img height="180em" padding:1px src="https://github-readme-stats.vercel.app/api?username=DoctorNerds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" padding:1px float:left src="https://github-readme-stats.vercel.app/api?username=DoctorNerds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact"/>
   <img height="180em" padding:1px src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorNerds&layout=compact&langs_count=7&theme=tokyonight&layout=compact"/>
 </div>
   
