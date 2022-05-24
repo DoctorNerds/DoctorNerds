@@ -1,7 +1,7 @@
 ### Hello World, I'm Fábio Mori! 👋
 
 - 🔭 I’m currently searching a working in tech
-- 🌱 I’m currently learning Mobile, Websites, Games and Data Science
+- 📚 I’m currently learning Mobile, Websites, Games and Data Science
 - ⚡ Curious fact: I have a edtech startup, MatrizKIDS, that teachs coding for kids creating games with Scratch
 - 🎮 Scratch Games repository: https://scratch.mit.edu/users/FabioMori/projects/
 
