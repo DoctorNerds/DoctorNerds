@@ -1,7 +1,7 @@
 ### Hello World, I'm Fábio Mori! 👋
 
 - 🤓 I'm electrical engineer graduated and mastering student.
-- 🌎 I have 32 years olde, live in Brazil and have dual citizenship, brazilian and italian.
+- 🌎 I live in Brazil and have dual citizenship, brazilian and italian.
 - 🔭 I’m currently searching a working in tech.
 - 📚 I’m currently learning Mobile, Websites, Games and Data Science.
 - ⚡ Curious fact: I have a edtech startup, MatrizKIDS, that teachs coding for kids creating games with Scratch.
