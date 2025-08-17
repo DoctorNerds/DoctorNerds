@@ -1,11 +1,6 @@
 ### Hello World, I'm Fábio Mori! 👋
 
-- 🤓 I'm electrical engineer graduated and mastering student.
-- 🌎 I live in Brazil and have dual citizenship, brazilian and italian.
-- 🔭 I’m currently searching a working in tech.
-- 📚 I’m currently learning Data Science, Mobile and Games.
-- ⚡ Curious fact: I have a edtech startup, MatrizKIDS, that teachs coding for kids creating games with Scratch.
-- 🎮 Scratch Games repository: https://scratch.mit.edu/users/FabioMori/projects/
+- 🤓 just coding.
 
 <div align="left">
   <a href="https://github.com/DoctorNerds">
